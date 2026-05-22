@@ -8,7 +8,7 @@ MEDIOCRE_STRAINS = "config/mediocre_strains.txt"
 
 COLORS = ("config/colors.tsv",)
 LAT_LONGS = ("config/lat_longs.tsv",)
-CLADES = "config/clades_new.tsv"
+CLADES = "config/clades.tsv"
 AUSPICE_CONFIG = "config/auspice_config.json"
 
 rule all:
