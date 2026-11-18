@@ -2,10 +2,15 @@
   "title": "Yellow Fever Virus",
   "maintainers": [
     {
-      "name": "Hodcroft Lab"
+      "name": "Hodcroft Lab",
+      "url": "https://eve-lab.org/"
+    },
+    {
+      "name": "maverbiest",
+      "url": "https://github.com/maverbiest"
     }
   ],
-  "build_url": "",
+  "build_url": "https://github.com/hodcroftlab/nextclade-yellow-fever",
   "colorings": [
     {
       "key": "clade_membership",
